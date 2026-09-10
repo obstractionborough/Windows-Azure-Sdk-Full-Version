@@ -1,0 +1,1 @@
+# Windows-Azure-Sdk-Full-Version
